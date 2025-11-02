@@ -10,3 +10,5 @@ The goal of this dashboard is to help urban planners, transport authorities, and
  5. Impact of Festivals and Weather on Congestion:Analyzes how seasonal events and weather jointly affect traffic congestion.
  6. Average Travel Time by Day of Week:Highlights weekday vs. weekend congestion patterns to support route and time optimization.
 
+Click below to explore the interactive dashboard 👇
+https://github.com/gopikasreejith/-Urban-Mobility-Analysis-Dashboard/blob/main/Urban%20Mobility%20Analysis%20Dashboard.xlsx
