@@ -2,7 +2,7 @@
 The Urban Mobility Analysis Dashboard provides an interactive visualization of how weather conditions, festivals, road types, and time factors influence traffic congestion and travel times in urban environments.
 The goal of this dashboard is to help urban planners, transport authorities, and data analysts understand congestion trends, optimize traffic flow, and improve city mobility strategies.
 
-##Dashboard Highlights
+## Dashboard Highlights
  1. Trip Count by Weather Condition:Displays trip proportions under different weather types such as Clear, Cloudy, Rain, Fog, and Storm.
  2. Average Travel Time by Road Type:Compares average travel times on congested, freeway, and urban roads.
  3. Congestion by Source–Destination:Shows congestion indices between key city areas (e.g., Dadar, Andheri, Juhu, Ghatkopar).
